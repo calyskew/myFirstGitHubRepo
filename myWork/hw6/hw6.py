@@ -1,6 +1,6 @@
 # Christina Alyskewycz
 # Referenced classwork: python_intro (specified which part on each problem) as well as rephactor 
-
+#edited by christina
 def string3(str): 
     '''
     Given a string, return a new string made of 3 copies of the last 2 chars of the original string.
